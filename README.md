@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/Ebenezer997/InstaClone/blob/master/Walkthroughgram.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
